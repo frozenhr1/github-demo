@@ -1,11 +1,17 @@
 <style>
 
 
-.p1{
+.p11{
 	color:blue;
 }
+.p1{
+	:blue;
+}
 .p2{
-	color:green;
+	color:green-not;
+}
+.p3{
+	color:yellow;
 }
 
 </style>
